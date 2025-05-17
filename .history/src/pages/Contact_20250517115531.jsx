@@ -33,7 +33,7 @@ const Contact = () => {
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:underline"
                 >
-                  facebook
+                  https://web.facebook
                 </a>
               </p>
               <p>

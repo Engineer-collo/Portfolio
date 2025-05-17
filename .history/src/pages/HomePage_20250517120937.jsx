@@ -27,7 +27,7 @@ const HomePage = () => {
         <a
           href="https://www.canva.com/design/DAGnrx6Us70/tJE03xC6C3poQ3thohi8EQ/view?utm_content=DAGnrx6Us70&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h09a36c8a0e"
           className="bg-blue-600 text-white px-4 py-0.5 rounded-full hover:bg-blue-700 transition"
-          target='_blank'
+          t
         >
           View my CV here...
         </a>

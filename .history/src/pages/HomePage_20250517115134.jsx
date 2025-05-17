@@ -25,11 +25,10 @@ const HomePage = () => {
       <p>
         Want to know more about me?&nbsp;
         <a
-          href="https://www.canva.com/design/DAGnrx6Us70/tJE03xC6C3poQ3thohi8EQ/view?utm_content=DAGnrx6Us70&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h09a36c8a0e"
+          href="https://docs.google.com/document/d/18-jJSiXRFNJNQoGK9ztbUH5kJKKRFEMvryu5e7921JA/export?format=pdf"
           className="bg-blue-600 text-white px-4 py-0.5 rounded-full hover:bg-blue-700 transition"
-          target='_blank'
         >
-          View my CV here...
+          Download my CV here...
         </a>
       </p>
     </div>
@@ -37,7 +36,7 @@ const HomePage = () => {
     {/* Image Side */}
     <div className="w-48 h-48 overflow-hidden rounded-full border-4 border-blue-600 shadow-lg">
       <img
-        src="/picture.png"
+        src="/.png"
         alt="Profile"
         className="w-full h-full object-cover"
       />
