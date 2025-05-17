@@ -33,7 +33,7 @@ const Contact = () => {
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:underline"
                 >
-                  facebook
+                  https://web.facebook.com
                 </a>
               </p>
               <p>
@@ -44,7 +44,7 @@ const Contact = () => {
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:underline"
                 >
-                  twitter
+                  https://x.com/CollinsLikhomba
                 </a>
               </p>
               <p className="font-medium text-lg font-sans text-gray-800">
