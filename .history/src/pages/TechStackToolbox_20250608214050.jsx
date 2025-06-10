@@ -110,7 +110,7 @@ import {
                   src="picture.png"
                   alt="Profile"
                 />
-                <span>Collins Likhomba</span>
+                <span>Me</span>
               </div>
             </div>
           </div>

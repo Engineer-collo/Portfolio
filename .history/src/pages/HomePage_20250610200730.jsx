@@ -27,16 +27,12 @@ const HomePage = () => {
             <h1 className="text-gray-300 font-bold text-3xl">
               "Hey there! 👋 Bring the aroma of tech into your business with Engineer{" "}
               <span>
-                <i className="text-orange-600"><strong>Collins Likhomba</strong></i>
+                <i className="text-orange-700"><strong>Collins Likhomba</strong></i>
               </span>{" "}
               — a proficient               <span>
                 <i className="text-blue-500"><strong>Software Engineer</strong></i>
               </span>{" "}
-              and a
-   {' '}               <span>
-                <i className="text-purple-600"><strong>Full Stack Web Developer</strong></i>
-              </span>{" "}
- ready to turn your ideas into reality."
+ , Full-stack web developer ready to turn your ideas into reality."
             </h1>
             <p className="text-xl pt-6 text-gray-300">
               Want to know more about me?&nbsp;

@@ -83,7 +83,7 @@ const Navbar = () => {
       {isOpen && (
         <div className="fixed top-0 left-0 h-screen w-3/4 bg-gray-950 z-50 shadow-lg px-6 py-8 md:hidden transition-all">
           <button onClick={toggleMenu} aria-label="Close menu" className="absolute top-4 right-4 text-white">
-            {/* <FaTimes className="h-6 w-6" /> */}
+            <FaTimes className="h-6 w-6" />
           </button>
           <nav className="space-y-6 mt-10 text-white text-lg">
             <Link to="/" onClick={toggleMenu} className="flex items-center gap-2 hover:text-blue-500"><FaHome /> Home</Link>

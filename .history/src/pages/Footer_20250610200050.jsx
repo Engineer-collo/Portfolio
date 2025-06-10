@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0">
 
         {/* Logo or Name */}
-        <div className="text-gray text-2xl font-bold tracking-wide">
+        <div className="text text-2xl font-bold tracking-wide">
           <strong><i>CollinsLikhomba</i></strong>
         </div>
 

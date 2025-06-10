@@ -32,9 +32,9 @@ const HomePage = () => {
               — a proficient               <span>
                 <i className="text-blue-500"><strong>Software Engineer</strong></i>
               </span>{" "}
-              and a
-   {' '}               <span>
-                <i className="text-purple-600"><strong>Full Stack Web Developer</strong></i>
+              
+ ,               <span>
+                <i className="text-orange-600"><strong>Full Stack Web Developer</strong></i>
               </span>{" "}
  ready to turn your ideas into reality."
             </h1>

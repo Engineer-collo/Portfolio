@@ -69,6 +69,7 @@ const Navbar = () => {
           <Link to="/about" className="flex items-center gap-1 hover:text-blue-500 transition"><FaUser /> About</Link>
           <Link to="/projects" className="flex items-center gap-1 hover:text-blue-500 transition"><FaProjectDiagram /> Projects</Link>
           <Link to="/contact" className="flex items-center gap-1 hover:text-blue-500 transition"><FaEnvelope /> Contact</Link>
+          <Link to="/skills" className="flex items-center gap-1 hover:text-blue-500 transition">Skills</Link>
         </nav>
 
         {/* Mobile menu toggle */}
@@ -83,13 +84,14 @@ const Navbar = () => {
       {isOpen && (
         <div className="fixed top-0 left-0 h-screen w-3/4 bg-gray-950 z-50 shadow-lg px-6 py-8 md:hidden transition-all">
           <button onClick={toggleMenu} aria-label="Close menu" className="absolute top-4 right-4 text-white">
-            {/* <FaTimes className="h-6 w-6" /> */}
+            <FaTimes className="h-6 w-6" />
           </button>
           <nav className="space-y-6 mt-10 text-white text-lg">
             <Link to="/" onClick={toggleMenu} className="flex items-center gap-2 hover:text-blue-500"><FaHome /> Home</Link>
             <Link to="/about" onClick={toggleMenu} className="flex items-center gap-2 hover:text-blue-500"><FaUser /> About</Link>
             <Link to="/projects" onClick={toggleMenu} className="flex items-center gap-2 hover:text-blue-500"><FaProjectDiagram /> Projects</Link>
             <Link to="/contact" onClick={toggleMenu} className="flex items-center gap-2 hover:text-blue-500"><FaEnvelope /> Contact</Link>
+            <Link to="/skills" onClick={toggleMenu} className="flex items-center gap-2 hover:text-blue-500">Skills</Link>
           </nav>
         </div>
       )}
