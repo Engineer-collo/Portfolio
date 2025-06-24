@@ -24,13 +24,13 @@ const HomePage = () => {
                         max-w-6xl w-full text-white">
           {/* Text Side */}
           <div className="flex-1">
-          <h1 className="text-2xl md:text-4xl font-bold leading-relaxed text-center text-white px-4">
-  Hey there! 👋 Bring the aroma of tech to life with{" "}
-  <span className="text-orange-500 font-bold">Engineer Collins Likhomba</span> — a{" "}
-  <span className="text-blue-400 font-bold">Software Engineer</span> and{" "}
-  <span className="text-purple-400 font-bold">Full Stack Web Developer</span>{" "}
-  ready to turn your ideas into scalable, stunning solutions.
-</h1>
+            <h1 className="text-2xl md:text-4xl font-bold leading-relaxed text-center md:text-left">
+              Hey there! 👋 Bring the aroma of tech into your business with{' '}
+              <span className="text-orange-500 font-bold">Engineer Collins Likhomba</span> — a proficient{' '}
+              <span className="text-blue-400 font-bold">Software Engineer</span> and a{' '}
+              <span className="text-purple-400 font-bold">Full Stack Web Developer</span>{' '}
+              ready to turn your ideas into reality.
+            </h1>
 
             <p className="text-lg pt-6 text-gray-300 text-center md:text-left">
               Want to know more about me?&nbsp;

@@ -24,7 +24,7 @@ const HomePage = () => {
                         max-w-6xl w-full text-white">
           {/* Text Side */}
           <div className="flex-1">
-          <h1 className="text-2xl md:text-4xl font-bold leading-relaxed text-center text-white px-4">
+          <h1 className="text-3xl md:text-4xl font-bold leading-relaxed text-center text-white px-4">
   Hey there! 👋 Bring the aroma of tech to life with{" "}
   <span className="text-orange-500 font-bold">Engineer Collins Likhomba</span> — a{" "}
   <span className="text-blue-400 font-bold">Software Engineer</span> and{" "}
