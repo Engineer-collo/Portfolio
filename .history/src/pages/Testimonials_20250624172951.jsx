@@ -5,21 +5,21 @@ export default function Testimonials() {
       content:
         "Working with Collins was a game-changer! His expertise in React and backend integration is unmatched.",
       profile_pic:
-        "https://images.pexels.com/photos/13672912/pexels-photo-13672912.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100", // African man
+        "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100",
     },
     {
       name: "Irine Cherop",
       content:
         "Collins is a team player and a tech visionary. He delivered our project ahead of schedule with superb quality.",
       profile_pic:
-        "https://images.pexels.com/photos/4668513/pexels-photo-4668513.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100", // African woman
+        "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100",
     },
     {
       name: "Joy A.",
       content:
         "He doesn't just write code—he solves real problems. A true full-stack craftsman!",
       profile_pic:
-        "https://images.pexels.com/photos/5065240/pexels-photo-5065240.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100", // Another African woman
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100",
     },
   ];
 

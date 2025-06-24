@@ -56,15 +56,11 @@ const Navbar = () => {
             alt="Profile"
             loading="lazy"
           />
-<h1 className="text-2xl md:text-3xl font-bold text-gray-900">
-  <Link
-    to="/"
-    className="text-blue-500 hover:text-blue-600 transition-colors duration-200"
-    aria-label="Go to homepage"
-  >
-    Engineer Collins
-  </Link>
-</h1>
+          <h1 className="text-2xl md:text-3xl font-bold text-gray-950">
+            <Link to="/" className="hover:text-blue-500 transition">
+              <span className="text-blue-500">Engineer Collins</span>
+            </Link>
+          </h1>
         </div>
 
         {/* Desktop nav */}
