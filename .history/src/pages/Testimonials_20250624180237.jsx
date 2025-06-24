@@ -15,7 +15,7 @@ export default function Testimonials() {
         "https://images.pexels.com/photos/4668513/pexels-photo-4668513.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100", // African woman
     },
     {
-      name: "Mish Njeri",
+      name: "",
       content:
         "He doesn't just write code—he solves real problems. A true full-stack craftsman!",
       profile_pic:
