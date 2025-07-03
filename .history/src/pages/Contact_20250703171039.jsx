@@ -26,7 +26,7 @@ const Contact = () => {
           user_name: form.name,
           user_email: form.email,
           message: form.message,
-          subject: 'New message from Portfolio Contact Page',
+          subject: 'New message from Contact Page',
           date: new Date().toLocaleString(),
         }
       )
