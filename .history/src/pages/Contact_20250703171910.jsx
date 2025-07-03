@@ -65,7 +65,7 @@ const Contact = () => {
                 </div>
                 <div className="flex items-center gap-3">
                   <FaEnvelope className="text-blue-500" />
-                  <a href="mailto:collinskhagoni@gmail.com" className="hover:underline">collinslikhomba@gmail.com</a>
+                  <a href="mailto:" className="hover:underline">collinslikhomba@gmail.com</a>
                 </div>
                 <div className="flex items-center gap-3">
                   <FaMapMarkerAlt className="text-blue-500" />
